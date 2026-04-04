@@ -1,4 +1,4 @@
-# GigShield — AI-Powered Parametric Income Insurance for Q-Commerce Delivery Partners
+# ShiftSheild — AI-Powered Parametric Income Insurance for Q-Commerce Delivery Partners
 
 **Guidewire DEVTrails 2026 | Phase 1 Submission**
 
